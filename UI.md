@@ -32,55 +32,55 @@
 * # 2.Эскизы веб-страниц
 
     ![](images/UI/UI_1.png)
-    1. Эскиз страницы Главной станицы системы Home Page
+    * 1. Эскиз страницы Главной станицы системы Home Page
 
     ![](images/UI/UI_2.png)
-    2. Эскиз страницы Project Modal Page
+    * 2. Эскиз страницы Project Modal Page
 
     ![](images/UI/UI_3.png)
-    3. Эскиз страницы Registration
+    * 3. Эскиз страницы Registration
 
     ![](images/UI/UI_4.png)
-    4. Эскиз страницы Login
+    * 4. Эскиз страницы Login
 
     ![](images/UI/UI_5.png)
-    5. Эскиз страницы Profile of Developer
+    * 5. Эскиз страницы Profile of Developer
 
     ![](images/UI/UI_6.png)
-    6. Эскиз страницы Edit Contact
+    * 6. Эскиз страницы Edit Contact
 
     ![](images/UI/UI_7.png)
-    7. Эскиз страницы Experiment of Developer
+    * 7. Эскиз страницы Experiment of Developer
 
     ![](images/UI/UI_8.png)
-    8. Эскиз страницы Specialities of Developer
+    * 8. Эскиз страницы Specialities of Developer
 
     ![](images/UI/UI_9.png)
-    9. Эскиз страницы Programming Languages
+    * 9. Эскиз страницы Programming Languages
 
     ![](images/UI/UI_10.png)
-    10. Эскиз страницы Frameworks and Tools of Developer
+    * 10. Эскиз страницы Frameworks and Tools of Developer
 
     ![](images/UI/UI_11.png)
-    11. Эскиз страницы Review of Developer
+    * 11. Эскиз страницы Review of Developer
 
     ![](images/UI/UI_12.png)
-    12. Эскиз страницы Projects of Developer
+    * 12. Эскиз страницы Projects of Developer
 
     ![](images/UI/UI_13.png)
-    13. Эскиз страницы Bookmark of Developer
+    * 13. Эскиз страницы Bookmark of Developer
 
     ![](images/UI/UI_14.png)
-    14. Эскиз страницы Add Project of Developer
+    * 14. Эскиз страницы Add Project of Developer
 
     ![](images/UI/UI_15.png)
-    15. Эскиз страницы Join request of Developer
+    * 15. Эскиз страницы Join request of Developer
 
     ![](images/UI/UI_16.png)
-    16. Эскиз страницы Profile of Company
+    * 16. Эскиз страницы Profile of Company
 
     ![](images/UI/UI_17.png)
-    17. Эскиз страницы Add Project of Company
+    * 17. Эскиз страницы Add Project of Company
 
 
 * # 3.Сценарии работы пользователя
