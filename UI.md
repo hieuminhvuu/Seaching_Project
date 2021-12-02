@@ -1,4 +1,4 @@
-# Seaching website
+# Searching website
 
 ## Проектирование интерфейса пользователя
 

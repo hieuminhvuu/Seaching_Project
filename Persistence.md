@@ -1,4 +1,4 @@
-# Seaching website
+# Searching website
 
 ## Проектирование сущностей и связей, схемы персистентности
 
