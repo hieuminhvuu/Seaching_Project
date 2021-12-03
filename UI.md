@@ -30,57 +30,26 @@
     * Recruitment
 
 * # 2.Эскизы веб-страниц
+|||
+|-|-|
+|Эскиз страницы Главной станицы системы Home Page|![](images/UI/UI_1.png)|
+|Эскиз страницы Project Modal Page|![](images/UI/UI_2.png)|
+|Эскиз страницы Registration|![](images/UI/UI_3.png)|
+|Эскиз страницы Login|![](images/UI/UI_4.png)|
+|Эскиз страницы Profile of Developer|![](images/UI/UI_5.png)|
+|Эскиз страницы Edit Contact|![](images/UI/UI_6.png)|
+|Эскиз страницы Experiment of Developer|![](images/UI/UI_7.png)|
+|Эскиз страницы Specialities of Developer|![](images/UI/UI_8.png)|
+|Эскиз страницы Programming Languages|![](images/UI/UI_9.png)|
+|Эскиз страницы Frameworks and Tools of Developer|![](images/UI/UI_10.png)|
+|Эскиз страницы Review of Developer|![](images/UI/UI_11.png)|
+|Эскиз страницы Projects of Developer|![](images/UI/UI_12.png)|
+|Эскиз страницы Bookmark of Developer|![](images/UI/UI_13.png)|
+|Эскиз страницы Add Project of Developer|![](images/UI/UI_14.png)|
+|Эскиз страницы Join request of Developer|![](images/UI/UI_15.png)|
+|Эскиз страницы Profile of Company|![](images/UI/UI_16.png)|
+|Эскиз страницы Add Project of Company|![](images/UI/UI_17.png)|
 
-    ![](images/UI/UI_1.png)
-    * Эскиз страницы Главной станицы системы Home Page
-
-    ![](images/UI/UI_2.png)
-    * Эскиз страницы Project Modal Page
-
-    ![](images/UI/UI_3.png)
-    * Эскиз страницы Registration
-
-    ![](images/UI/UI_4.png)
-    * Эскиз страницы Login
-
-    ![](images/UI/UI_5.png)
-    * Эскиз страницы Profile of Developer
-
-    ![](images/UI/UI_6.png)
-    * Эскиз страницы Edit Contact
-
-    ![](images/UI/UI_7.png)
-    * Эскиз страницы Experiment of Developer
-
-    ![](images/UI/UI_8.png)
-    * Эскиз страницы Specialities of Developer
-
-    ![](images/UI/UI_9.png)
-    * Эскиз страницы Programming Languages
-
-    ![](images/UI/UI_10.png)
-    * Эскиз страницы Frameworks and Tools of Developer
-
-    ![](images/UI/UI_11.png)
-    * Эскиз страницы Review of Developer
-
-    ![](images/UI/UI_12.png)
-    * Эскиз страницы Projects of Developer
-
-    ![](images/UI/UI_13.png)
-    * Эскиз страницы Bookmark of Developer
-
-    ![](images/UI/UI_14.png)
-    * Эскиз страницы Add Project of Developer
-
-    ![](images/UI/UI_15.png)
-    * Эскиз страницы Join request of Developer
-
-    ![](images/UI/UI_16.png)
-    * Эскиз страницы Profile of Company
-
-    ![](images/UI/UI_17.png)
-    * Эскиз страницы Add Project of Company
 
 
 * # 3.Сценарии работы пользователя
